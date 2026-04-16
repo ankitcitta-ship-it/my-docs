@@ -1,6 +1,5 @@
 ---
 description: New updates and improvements
-icon: clock-rotate-left
 layout:
   width: wide
   title:
