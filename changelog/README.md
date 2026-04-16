@@ -1,9 +1,25 @@
 ---
 description: New updates and improvements
 icon: clock-rotate-left
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
-# Changelog
+# 2026
 
 {% updates format="full" %}
 {% update date="2025-12-03" %}

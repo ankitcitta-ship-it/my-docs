@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Changelog](README.md)
+* [2026](README.md)
+* [2025](2025.md)
